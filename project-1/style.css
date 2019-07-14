@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image: url(https://static1.squarespace.com/static/53806bd1e4b08791cb6d533f/5386b106e4b04631a5ded319/59984bf3f5e231aff0c769c1/1519569141624/Australia-East-Coast-TBN.jpg?format=2500w) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+}
+
+.col-md-3 {
+    margin-left: 150px;
+}
+
+.btn{
+    background-color: rgb(6, 89, 122);
+    border-color: black;
+    color: white;
+    
+}
+
+#weather, #events, #food{
+    font-size: 30px;
+    padding-left: 35px;
+
+}
+
+.col-md-4 {
+    border-top: solid;
+}
